@@ -46,9 +46,10 @@ This is a React single page application (SPA) build with HTML, CSS, REACT.JS, No
 
 ## Technologies Used
 
-React: Version
-Node.js: Version
-Express: Version
+React: Version 18.2.0"
+Node.js: Version 18.18.2
+react-slick: Version 0.29.0
+slick-carousel: Version 1.8.1
 
 ## Database
 
